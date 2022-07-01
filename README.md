@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashwini Perewar
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Full Stack Web Developer course from Masai School.
+- 🌱 I’m currently learning Full Stack Web Developer from  Masai School.
 - 📫 You can reach me via e-mail at Ashwiniperewar411@gmail.com 
 
 <!---
