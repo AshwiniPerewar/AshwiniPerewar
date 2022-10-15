@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Aspiring Full Stack Web Developer
 ---------------------------------
 
-I am a passionate full-stack developer with hands-on experience in HTML5, CSS3, Javascript, Chakra-UI, react, redux, Bootstrap, Mysql, GitHub, etc. I have a good knowledge of DSA and solved a significant number of questions related to different Data Structures.
+I'm a Full Stack Web Developer, specialised in MERN Stack, love to implement my skills in developing beautiful websites and functional user experiences. I have a good knowledge of DSA and solved a significant number of questions related to different Data Structures.
 
 * 🌍  I'm based in Nanded, Maharashtra
 * ✉️  You can contact me at [ashwiniperewar411@gmail.com](mailto:ashwiniperewar411@gmail.com)
