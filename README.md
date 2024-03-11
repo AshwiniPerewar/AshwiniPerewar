@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ashwini Perewar
 =======================================================================================================================================
 
-Aspiring Full Stack Web Developer
+Full Stack Web Developer
 ---------------------------------
 
-I'm a Full Stack Web Developer, specialised in MERN Stack, love to implement my skills in developing beautiful websites and functional user experiences. I have a good knowledge of DSA and solved a significant number of questions related to different Data Structures.
+I'm a Full Stack Web Developer, specialized in MERN Stack, love to implement my skills in developing beautiful websites and functional user experiences. I have a good knowledge of DSA and solved a significant number of questions related to different Data Structures.
 
 * 🌍  I'm based in Nanded, Maharashtra
 * ✉️  You can contact me at [ashwiniperewar411@gmail.com](mailto:ashwiniperewar411@gmail.com)
