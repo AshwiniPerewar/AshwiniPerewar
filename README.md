@@ -8,7 +8,7 @@ I'm a Full Stack Web Developer, specialized in MERN Stack, love to implement my 
 
 * 🌍  I'm based in Nanded, Maharashtra
 * ✉️  You can contact me at [ashwiniperewar411@gmail.com](mailto:ashwiniperewar411@gmail.com)
-* 🧠  I'm learning React, NodeJs, ExpressJs, MongoDB
+
 
 ### Skills
 
